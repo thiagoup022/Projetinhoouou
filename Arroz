@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dicas de Limpeza de Pele</title>
+</head>
+<body bgcolor="#ffebee">
+    <header style="text-align: center; padding: 30px;">
+        <h1 style="color: #c2185b;">Guia Completo para Limpeza de Pele!</h1>
+        <p style="font-size: 1.1em; color: #880e4f;">Descubra como manter sua pele saudável e radiante.</p>
+    </header>
+
+    <main style="text-align: center;">
+        <section>
+            <h2 style="color: #e91e63;">Vídeo Incrível</h2>
+            <iframe width="560" height="315" 
+                    src="https://youtu.be/i2nwy6RZO7Y?si=8dA8BFzKupjysEPi" 
+                    title="Limpeza de pele passo a passo" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+            </iframe>
+        </section>
+
+        <section style="margin-top: 25px;">
+            <h2 style="color: #d81b60;">Passos para uma Limpeza Eficaz</h2>
+            <p style="max-width: 600px; margin: auto; color: #444;">Uma boa limpeza é essencial para a saúde da sua pele. Siga os passos abaixo e fique radiante!</p>
+            <h3>Itens Necessários:</h3>
+            <ul style="list-style-type: disc; color: #ad1457;">
+                <li>Sabonete específico para o seu tipo de pele</li>
+                <li>Tônico facial</li>
+                <li>Esfoliante (opcional, uma vez por semana)</li>
+                <li>Hidratante adequado</li>
+            </ul>
+
+            <h3>Instruções:</h3>
+            <ol style="color: #ad1457;">
+                <li>Inicie lavando o rosto com água morna e um sabonete apropriado.</li>
+                <li>Se usar, aplique um esfoliante suave uma vez por semana.</li>
+                <li>Use um tônico facial com um algodão para equilibrar a pele.</li>
+                <li>Finalize aplicando um bom hidratante para manter a pele hidratada.</li>
+            </ol>
+        </section>
+    </main>
+
+    <footer style="text-align: center; padding: 20px; background-color: #880e4f; color: white;">
+        <p>&copy; 2024 - Cuidados com a Pele em Dia</p>
+    </footer>
+</body>
+</html>
